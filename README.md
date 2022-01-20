@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<a href="https://github.com/laksono/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laksono&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/laksono/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksono&layout=compact&theme=radical&hide_border=false" />
+</a>
 <!--
 **laksono/laksono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
